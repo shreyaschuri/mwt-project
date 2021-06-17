@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MoviePage">
+
+
+    <ImageView
+        android:id="@+id/movie_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="112dp"
+        android:layout_marginTop="55dp"
+        android:layout_marginEnd="115dp"
+        android:src="@drawable/baby_driver" />
+
+    <TextView
+        android:id="@+id/movie_title"
+        android:layout_width="wrap_content"
+        android:layout_height="53dp"
+        android:layout_below="@+id/movie_img"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="35dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/movie_overview"
+        android:layout_width="wrap_content"
+        android:layout_height="148dp"
+        android:layout_below="@+id/movie_title"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="39dp"
+        android:layout_marginBottom="102dp"
+        android:text="TextView" />
+
+
+    <Button
+        android:id="@+id/add_submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="245dp"
+        android:layout_marginBottom="41dp"
+        android:text="Add Watchnow" />
+
+    <Button
+        android:id="@+id/add_teacher"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="57dp"
+        android:layout_marginBottom="42dp"
+        android:text="Add WatchLater" />
+</RelativeLayout>
