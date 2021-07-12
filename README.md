@@ -25,3 +25,6 @@ Movie-Info Page
 
 ![Screenshot_2021-07-13-02-47-01-648_com example watchtracker](https://user-images.githubusercontent.com/55293445/125357432-46a05400-e385-11eb-995b-b02fe639dcf7.jpg)
 
+Search Page
+
+![Screenshot_2021-07-13-02-54-26-522_com example watchtracker](https://user-images.githubusercontent.com/55293445/125357748-a991eb00-e385-11eb-83bc-bf56a365c889.jpg)
