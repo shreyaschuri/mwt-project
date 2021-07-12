@@ -25,7 +25,7 @@ Storing data on Firebase Cloud storage so that it can be accessed from all devic
 
 ![Screenshot_2021-07-13-02-47-01-648_com example watchtracker](https://user-images.githubusercontent.com/55293445/125357432-46a05400-e385-11eb-995b-b02fe639dcf7.jpg)
 
-##Watched / Watch later Page
+# Watched / Watch later Page
 ![Screenshot_2021-07-13-02-46-44-745_com example watchtracker](https://user-images.githubusercontent.com/55293445/125358618-c2e76700-e386-11eb-827e-eece34df7619.jpg)
 ![Screenshot_2021-07-13-02-46-27-685_com example watchtracker](https://user-images.githubusercontent.com/55293445/125358635-c7138480-e386-11eb-933e-0a3409f717ad.jpg)
 
