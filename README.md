@@ -28,3 +28,8 @@ Movie-Info Page
 Search Page
 
 ![Screenshot_2021-07-13-02-54-26-522_com example watchtracker](https://user-images.githubusercontent.com/55293445/125357748-a991eb00-e385-11eb-83bc-bf56a365c889.jpg)
+
+Otp-verification
+
+![Screenshot_2021-07-13-02-48-14-001_com example watchtracker](https://user-images.githubusercontent.com/55293445/125357899-de05a700-e385-11eb-85e7-09f47ebb91dc.jpg)
+
