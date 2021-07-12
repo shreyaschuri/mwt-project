@@ -33,3 +33,14 @@ Otp-verification
 
 ![Screenshot_2021-07-13-02-48-14-001_com example watchtracker](https://user-images.githubusercontent.com/55293445/125357899-de05a700-e385-11eb-85e7-09f47ebb91dc.jpg)
 
+Log in/ Registration Page
+
+![Screenshot_2021-07-13-02-47-13-608_com example watchtracker](https://user-images.githubusercontent.com/55293445/125358118-23c26f80-e386-11eb-909b-d08c3b01489e.jpg)
+![Screenshot_2021-07-13-02-47-21-255_com example watchtracker](https://user-images.githubusercontent.com/55293445/125358137-291fba00-e386-11eb-9cc3-ea67dbf48a95.jpg)
+
+
+
+
+
+
+
