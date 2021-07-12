@@ -18,11 +18,3 @@ Storing data on Firebase Cloud storage so that it can be accessed from all devic
 9. All genres (romantic, thriller, English, hindi).
 
 
-
-
-### Advanced features (features we will work on if building the basic features is successful) - 
-
-1. Notifications about upcoming releases that the user chooses.
-2. Read critic reviews.
-3. Read and write spoiler free comments.
-4. Recommendations based on genres selected by the user.
