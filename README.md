@@ -15,6 +15,10 @@ Storing data on Firebase Cloud storage so that it can be accessed from all devic
 6. Option to add to “Watched” list.
 7. Option to add to “Want to Watch” list.
 8. Option to rate watched movies.
-9. All genres (romantic, thriller, English, hindi).
+9. All genres (romantic, thriller, English, hindi). 
+
+Home Page
+
+![Screenshot_2021-07-13-02-46-08-759_com example watchtracker](https://user-images.githubusercontent.com/55293445/125357214-f2956f80-e384-11eb-9ba9-92faec32bcd0.jpg)
 
 
